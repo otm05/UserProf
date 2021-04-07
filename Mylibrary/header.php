@@ -25,6 +25,6 @@
                         </ul>
                         <form class="form-inline mr-auto" target="_self">
                             <div class="form-group"><label for="search-field"><i class="fa fa-search"></i></label><input class="form-control search-field" type="search" name="search" id="search-field"></div>
-                        </form><span class="navbar-text"><a href="#" class="login">connexion</a></span><a class="btn btn-light action-button" role="button" href="../page/p_registeruser.php">Inscription</a></div>
+                        </form><span class="navbar-text"><a href="../page/p_Login.php" class="login">connexion</a></span><a class="btn btn-light action-button" role="button" href="../page/p_registeruser.php">Inscription</a></div>
                 </div>
             </nav>

@@ -6,7 +6,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #DDD;
+  background-image: url(../img/background12.jpg);
   font-size: 16px;
   color: #222;
   font-family: 'Roboto', sans-serif;
@@ -111,7 +111,7 @@ input[type="submit"]:active {
   padding: 40px;
   width: 300px;
   height: 400px;
-  background-image: url("../img/back01.jpg");
+  background-image: url("../img/background12.jpg");
   background-size: cover;
   background-position: center;
   border-radius: 0 2px 2px 0;
